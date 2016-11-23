@@ -1,4 +1,5 @@
 # hello-world
 My First Repository
 
-Introduction to a repository リポジトリへの第一段階。
+Introduction to a repository リポジトリの書き換え
+情報をさらに追加してみる
